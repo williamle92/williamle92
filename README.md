@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamle92
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning CSS, python, Java
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning CSS, python, Java, React, Flask, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
