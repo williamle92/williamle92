@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William!
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning CSS, python, Java, React, Flask, SQL
+- 👀 I’m interested in problem solving and learning about algorithms.
+- 🌱 I’m currently learning React, Flask, AWS
 - 📫 How to reach me williamkle92@gmail.com
 
 <!---
