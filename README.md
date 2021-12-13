@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William!
-- 👀 I’m interested in problem solving and learning about algorithms.
-- 🌱 I’m currently learning React, Flask, AWS
+- I’m interested in problem solving and learning algorithms.
+- 🌱 I’m currently learning Ruby, Ruby on Rails
 - 📫 How to reach me williamkle92@gmail.com
 
 <!---
