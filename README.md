@@ -1,3 +1,5 @@
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamle92&show_icons=true&theme=dracula)
+
 - 👋 Hi, I’m William!
 - I’m interested in problem solving and learning algorithms.
 - 🌱 I’m currently learning Ruby, Ruby on Rails
